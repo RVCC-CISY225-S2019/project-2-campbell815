@@ -1,4 +1,4 @@
-## Project 1 About Me Starter Code 
+## Project 2 The Creations 
 
 ### Instructions:
 Download the clone of your completed Project 1 repo.
